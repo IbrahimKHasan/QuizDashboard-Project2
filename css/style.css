@@ -1,0 +1,79 @@
+h1,
+h4 {
+  text-align: center;
+}
+h1 {
+  margin-top: 200px;
+}
+.welcome {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.logo {
+  font-weight: bolder;
+}
+.cont {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  justify-content: space-between;
+  margin-bottom: 65px;
+}
+.quiz-card {
+  padding-left: 10px;
+  padding: 20px 10px 0px 10px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px rgb(146, 146, 144);
+}
+.quiz-card:hover {
+  background-color: black;
+  color: white;
+  transition: 0.3s;
+}
+.html {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  margin-bottom: 5px;
+  display: block;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+span {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+button {
+    background-color: rgb(225, 233, 229);
+    border-radius: 5px !important;
+    border: none;
+    padding: 5px;
+    width: 100px;
+  }
+  
+.butt {
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.cont-2{
+margin: auto;
+}
+@media (max-width:800px){
+.cont{
+flex-direction: column;
+}
+.cont-2{
+margin-bottom: 20px;
+}
+}
+
