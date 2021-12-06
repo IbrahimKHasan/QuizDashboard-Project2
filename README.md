@@ -1,1 +1,1 @@
-https://ibrahimkhasan.github.io/QuizDashboard-Project2/
+https://ibrahimkhasan.github.io/QuizWebsiteProject2/
